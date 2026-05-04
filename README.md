@@ -1,6 +1,6 @@
 # Cisco Networking Labs
 
-> **Academic context:** These labs were completed as coursework assignments for the *Computer Networks* course of the MSc in Informatics at the University of Piraeus. Despite their academic origin, they cover real-world networking concepts implemented hands-on in Cisco Packet Tracer v6.2.
+> **Academic context:** These labs were completed as coursework assignments. Despite their academic origin, they cover real-world networking concepts implemented hands-on in Cisco Packet Tracer v6.2.
 
 ***
 
